@@ -8,4 +8,3 @@ Traditional text clustering model has sparse high-dimension problem, and it's la
 ![image](https://github.com/yangym6/text-clustering-spark-lda/blob/master/screenshots/km_1.png)
 ![image](https://github.com/yangym6/text-clustering-spark-lda/blob/master/screenshots/km_2.png)
 ![image](https://github.com/yangym6/text-clustering-spark-lda/blob/master/screenshots/km_3.png)
-![image](https://github.com/yangym6/text-clustering-spark-lda/blob/master/screenshots/km_4.png)
