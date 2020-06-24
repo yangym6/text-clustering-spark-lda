@@ -20,7 +20,7 @@ object LDA {
 
     //Trains a LDA model
     val ldaModel = new LDA().
-      setK(3).
+      setK(5).
       setDocConcentration(5).
       setTopicConcentration(5).
       setMaxIterations(20).
